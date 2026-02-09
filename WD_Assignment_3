@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Text Formatting Tags</title>
+</head>
+<body>
+
+<p><b>This text is bold using the &lt;b&gt; tag for visual emphasis.</b></p>
+
+<p><strong>This text is strong using &lt;strong&gt; which indicates importance.</strong></p>
+
+<p><i>This text is italic using the &lt;i&gt; tag for stylistic text.</i></p>
+
+<p><em>This text is emphasized using &lt;em&gt; which adds semantic meaning.</em></p>
+
+<p><u>This text is underlined using the &lt;u&gt; tag.</u></p>
+
+<p><mark>This text is highlighted using the &lt;mark&gt; tag.</mark></p>
+
+<p><small>This text is smaller using the &lt;small&gt; tag.</small></p>
+
+<p>This text contains <sub>subscript</sub> using the &lt;sub&gt; tag.</p>
+
+<p>This text contains <sup>superscript</sup> using the &lt;sup&gt; tag.</p>
+
+<p><del>This text is deleted using the &lt;del&gt; tag.</del></p>
+
+<p><ins>This text is inserted using the &lt;ins&gt; tag.</ins></p>
+
+<p><code>This is code text using the &lt;code&gt; tag.</code></p>
+
+<p><kbd>Ctrl + C</kbd> is shown using the &lt;kbd&gt; tag.</p>
+
+<p><samp>This is sample output using the &lt;samp&gt; tag.</samp></p>
+
+<p><var>x</var> is a variable shown using the &lt;var&gt; tag.</p>
+
+<p><abbr title="HyperText Markup Language">HTML</abbr> is shown using the &lt;abbr&gt; tag.</p>
+
+<p><cite>Wings of Fire</cite> is a book name using the &lt;cite&gt; tag.</p>
+
+<p><q>This is a short quotation using the &lt;q&gt; tag.</q></p>
+
+<p><span style="color:blue;">This text is styled using the &lt;span&gt; tag.</span></p>
+
+<p><bdo dir="rtl">This text is reversed using the &lt;bdo&gt; tag.</bdo></p>
+
+</body>
+</html>
